@@ -7,7 +7,7 @@
   "lib": "https://github.com/ALMAESTRODARK9/ALMAESTRO/raw/main/libDARK.so",
   "features": [
     "Sistem performansı iyileştirildi",
-    "Yeni ARM64 mimarisi kitaplıkları desteği eklendi",
+    "Yeni ARM64 mimarisi kütüphaneleri desteği eklendi",
     "Küçük çalışma zamanı hataları düzeltildi"
   ]
 }
